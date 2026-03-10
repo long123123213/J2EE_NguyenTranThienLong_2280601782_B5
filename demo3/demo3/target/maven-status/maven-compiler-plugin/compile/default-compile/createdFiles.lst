@@ -1,0 +1,12 @@
+com\example\demo3\controller\ProductViewController.class
+com\example\demo3\model\Category.class
+com\example\demo3\service\ProductService.class
+com\example\demo3\Demo3Application.class
+com\example\demo3\controller\ProductController.class
+com\example\demo3\repository\CategoryRepository.class
+com\example\demo3\controller\HomeController.class
+com\example\demo3\model\Product.class
+com\example\demo3\controller\CategoryController.class
+com\example\demo3\service\CategoryService.class
+com\example\demo3\repository\ProductRepository.class
+com\example\demo3\controller\CategoryViewController.class
